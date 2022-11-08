@@ -1,7 +1,7 @@
 from webserver import keep_alive
 import requests
 
-channelID = PUT THE CHANNEL ID
+channelID = 1037032505636835348
 headers = {
     "authorization":
     "YOUR TOKEN HERE"
